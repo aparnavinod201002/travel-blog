@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Noto Sans", sans-serif;
+
+}
+.overlay{
+    display: flex;
+    position: absolute;
+    top: 10%;
+    
+}
+.imgs2{
+   
+        background-color: blanchedalmond;
+        height: 130px;
+        width: 300px;
+        margin: 10px;
+        display: flex;
+       
+      align-items: center;
+      padding-left: 4%;
+       
+    }
+    .content{
+        display: flex;
+    }
+   
+    button{
+        left: 40%;
+        margin-top: 80%;
+    }
+    .imgs2{
+        display: flex;
+    position: absolute;
+    top: 175%;
+    left: 40%;
+    }
+    .bann{
+        margin-top: 10%;
+    }
+    #row1{
+        position: sticky;
+        top: 0%;
+    }
+.overlay2{
+    display: flex;
+    position: absolute;
+    top: 10%;
+}
+#new{
+    margin-left: 30%;
+}
+#new1{
+    margin-left: 30%;
+}
+#SEC{
+    background-color: rgba(240, 128, 128, 0.656);
+}
+#row1{
+    position: sticky;
+    top: 0%;
+}
